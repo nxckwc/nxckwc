@@ -16,7 +16,7 @@ I work on projects spanning full-stack web applications, embedded/robotics syste
 
 ### Projects
 
-**[student-id-card](https://github.com/nxckwc/student-id-card)**
+**[NFC-student-card](https://github.com/nxckwc/student-id-card)**
 Full-stack NFC student ID and attendance system, combining an NFC-based hardware interface with a web application for attendance tracking and management.
 
 **[PTBOT_pathfinding](https://github.com/nxckwc/PTBOT_pathfinding)**
