@@ -16,11 +16,14 @@ I work on projects spanning full-stack web applications, embedded/robotics syste
 
 ### Projects
 
-**[NFC-student-card](https://github.com/nxckwc/student-id-card)**
+- **[NFC-student-card](https://github.com/nxckwc/student-id-card)**
 Full-stack NFC student ID and attendance system, combining an NFC-based hardware interface with a web application for attendance tracking and management.
 
-**[PTBOT_pathfinding](https://github.com/nxckwc/PTBOT_pathfinding)**
+- **[PTBOT_pathfinding](https://github.com/nxckwc/PTBOT_pathfinding)**
 Arduino-based robotics project implementing autonomous pathfinding through integrated sensor systems.
+
+- **[Camera-relative-sprite](https://github.com/nxckwc/Camera-relative-sprite)**
+Godot experiment combining 2D pixel-art characters with a 3D environment, using camera-relative logic to drive 8-directional sprite animation and rotation in real time.
 
 ---
 
