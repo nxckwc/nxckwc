@@ -31,18 +31,17 @@ Godot experiment combining 2D pixel-art characters with a 3D environment, using 
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, C++, GDScript |
+| Languages | Python, TypeScript, JavaScript, C++|
 | Web Development | React, Next.js, Node.js, Tailwind CSS |
 | Data & Backend | PostgreSQL, Prisma, Drizzle, REST APIs |
-| Robotics / IoT | Arduino, NFC, Sensors, Embedded Systems |
+| Robotics / IoT | Arduino, NFC, Embedded Systems |
 | AI / Computer Vision | Python, OpenCV, YOLO |
-| Game Development | Godot, GDScript, 3D, Procedural Generation |
-| Environment & Tools | Linux, Git, GitHub, Docker |
+| Game Development | Godot, GDScript, Procedural Generation |
+| Environment & Tools | Linux, Git, Docker |
 
 ---
 
 ### Contact
 
-<!-- Replace # with your actual links -->
 - Email: [nxckforwork@gmail.com](mailto:nxckforwork@gmail.com)
 - LinkedIn: [Wanchai Maidaeng](https://www.linkedin.com/in/wanchai-maidaeng-1b9504351/)
